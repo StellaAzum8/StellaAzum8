@@ -13,9 +13,9 @@ I'm a passionate Data Analyst with a strong foundation in extracting insights fr
 
 ## EXPERIENCE
 **Data Analyst intern**
-*IJAN AFRICA*
-
+*IJAN AFRICA*.Internship
 July 2024 - Present
+
 ## EDUCATION  
 **Bachelor’s Degree in Accounting and Finance**  
 *Caleb University, Lagos, Nigeria*  
