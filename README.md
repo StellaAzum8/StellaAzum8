@@ -12,9 +12,10 @@ I'm a passionate Data Analyst with a strong foundation in extracting insights fr
 **Power BI📈 :** Skilled in creating compelling presentations that effectively communicate data insights and recommendations to stakeholders. Proficient in using visual aids and storytelling techniques to enhance data presentations.
 
 ## EXPERIENCE
-**Data Analyst intern**
-*IJAN AFRICA*.Internship
-July 2024 - Present
+**Data Analyst Intern**  
+*IJAN AFRICA* | Internship  
+*July 2024 - Present*
+
 
 ## EDUCATION  
 **Bachelor’s Degree in Accounting and Finance**  
