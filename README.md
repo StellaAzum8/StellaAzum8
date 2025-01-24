@@ -23,6 +23,18 @@ I'm a passionate Data Analyst with a strong foundation in extracting insights fr
 November 2022 – Present | 300 Level  
 
 ## CERTIFICATIONS  
+**Mastery of Information Technology Ethics**
+*CUL Technologies*
+Issued January 2025
+
+**Accelerated Jobberman Soft Skills Training**
+*Jobberman Youth Engagement & Learning*
+Issued September 2024
+
+**Data Analysis**
+*Ijan Africa*
+Issued May 2024
+
 **Microsoft 365 Introduction**  
 *CUL Technologies*  
 Issued February 2024  
