@@ -5,7 +5,7 @@
 
 
 
-### 📊 Data Analyst | Accounting & Financial Analytics
+### Data Analyst | Accounting & Financial Analytics
 
 
 
@@ -13,7 +13,7 @@ A Data Analyst with a strong foundation in accounting and financial reporting, s
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 
 
@@ -32,7 +32,7 @@ A Data Analyst with a strong foundation in accounting and financial reporting, s
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 
 
@@ -97,7 +97,7 @@ A Data Analyst with a strong foundation in accounting and financial reporting, s
 
 ---
 
-## 📂 Key Projects
+## Key Projects
 
 
 
