@@ -167,7 +167,7 @@ A Data Analyst with a strong foundation in accounting and financial reporting, s
 * **Location:** Lagos, Nigeria
 
 
-* **LinkedIn:** [Stella Azum](https://linkedin.com)
+* **LinkedIn:** [Stella Azum](https://linkedin.com/in/azum-stella)
 
 * **GitHub:** [StellaAzum8](https://www.google.com/search?q=https://github.com/StellaAzum8)
 
